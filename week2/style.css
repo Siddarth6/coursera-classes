@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+a{
+    display: block;
+    border: 5px solid black;
+    width: 150px;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 5px;
+}
+a:hover{
+    color: white;
+    background-color: black;
+    cursor: pointer;
+
+}
+a:active{
+    background-color: blue;
+}
+spam{
+    color: red;
+    font-weight: bolder;
+}
